@@ -51,3 +51,4 @@ for i in range(a,b+1):
 if str(i) in prime: #to check number in prime numbers string print(" is a prime number".format(int(i))) continue
 
 if str(i) in composite: # to check number in composite numbers string print("{} is a composite number".format(int(i)))
+# By this we can find the composite or prime number in a range
